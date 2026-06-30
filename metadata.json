@@ -1,0 +1,6 @@
+{
+  "name": "Impact Scholar",
+  "description": "Premium government-inspired DBT awareness and scholarship tracker portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
